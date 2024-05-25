@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/ThirdPerson/Blueprints/Enemy_01.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/WM/KNA3NN75TJK8NZA1WMU43J.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/Characters/Mannequins/Animations/AI/WalkBlendSpace.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/Characters/Mannequins/Animations/AI/AI_Animation_BP.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/Characters/Mannequins/Animations/AI/AI_Attack_Montage.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L1/TCSQQ8T6108OAQNJCHORGS.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PO/74E8QE8RFQWL7LZEJGORH4.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DC/2WYI0VVOGBKSH914LAVMOL.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/X1/DAZM3T7KZ0AOOCKG8ROBSJ.uasset",
+				"D:/Unreal Projects/gamedev.tv/LastStand/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZT/7Z0TERO49KKZL2OJ5XHZVH.uasset"
+			]
+		}
+	]
+}
