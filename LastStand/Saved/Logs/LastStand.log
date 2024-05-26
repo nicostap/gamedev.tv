@@ -2856,3 +2856,8 @@ Please see Output Log for details.
 [2024.05.26-15.57.16:606][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
 [2024.05.26-15.57.16:673][697]LogPlayLevel: Display: Destroying online subsystem :Context_47
 [2024.05.26-16.06.43:199][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2024.05.26-16.07.55:739][ 10]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2024.05.26-16.07.56:746][ 13]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2024.05.26-16.07.59:417][ 21]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2024.05.26-16.08.00:081][ 23]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
+[2024.05.26-16.09.12:915][242]LogDerivedDataCache: C:/Users/timsp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2091 files in 3059 folders with total size 178 MiB.
